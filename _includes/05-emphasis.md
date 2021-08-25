@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm **awesome**.
+No your not dude don't *lie*.
+I'm **awesome**.
+I drive around in my **moms** car.
