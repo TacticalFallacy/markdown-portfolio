@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a cat](https://timesofindia.indiatimes.com/photo/67586673.cms)
